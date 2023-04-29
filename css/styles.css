@@ -1,5 +1,3 @@
-/* Studio Page */
-
 :root {
     --logo-brand-color: #4d5ae5;
     --pressed-state-color: #404bbf;
@@ -137,8 +135,6 @@ button:focus {
 .footer-text {
     color: var(--light-mode-background-color);
 }
-
-/* Portfolio Page */
 
 .filter-button {
     font-weight: 500;

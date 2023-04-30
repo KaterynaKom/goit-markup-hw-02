@@ -56,12 +56,12 @@ button:focus {
     text-decoration: none;
     }
 
-.menu-item:hover,
-.menu-item:focus {
+.menu-link:hover,
+.menu-link:focus {
     color: var(--pressed-state-color);
 }
-.contact-item:hover,
-.contact-item:focus {
+.contact-info-item:hover,
+.contact-info-item:focus {
     color: var(--pressed-state-color);
 }
 
